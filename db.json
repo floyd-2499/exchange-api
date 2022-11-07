@@ -1,0 +1,39 @@
+{
+  "exchanges": [
+    {
+      "id": 7,
+      "name": "kraken",
+      "isActive": false
+  },
+  {
+      "id": 6,
+      "name": "okx",
+      "isActive": false
+  },
+  {
+      "id": 5,
+      "name": "gate.io",
+      "isActive": false
+  },
+  {
+      "id": 4,
+      "name": "ftx",
+      "isActive": false
+  },
+  {
+      "id": 3,
+      "name": "deribit",
+      "isActive": true
+  },
+  {
+      "id": 2,
+      "name": "bitrex",
+      "isActive": true
+  },
+  {
+      "id": 1,
+      "name": "binance",
+      "isActive": true
+  }
+  ]
+}
